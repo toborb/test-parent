@@ -1,4 +1,5 @@
 test file
 other modification
 local changes
+new modifications
 other changes
