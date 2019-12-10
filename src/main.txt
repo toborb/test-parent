@@ -1,13 +1,1 @@
-test file
-other modification
-local changes
-new modifications
-other changes
-local changes 22
-local changes 23
-changes 44
-changes 45
-other commit
-dsfaf	
-local changes
-git changes 11/2019
+new version
