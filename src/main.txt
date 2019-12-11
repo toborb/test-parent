@@ -25,6 +25,8 @@ git modifications
 
 new local modifications
 
+conflict with parent
+
 conflict with local
 
-conflict with parent
+conflict with local 111
