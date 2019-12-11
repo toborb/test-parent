@@ -22,4 +22,7 @@ for long time
 
 git modifications
 
+
 new local modifications
+
+conflict with local
